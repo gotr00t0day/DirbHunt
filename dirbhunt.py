@@ -1,6 +1,5 @@
 from colorama import Fore, Back, Style
 from fake_useragent import UserAgent
-from rich.progress import track
 import concurrent.futures
 import requests
 import time
